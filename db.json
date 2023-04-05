@@ -1,0 +1,53 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "img": "https://ecopolitic.com.ua/wp-content/uploads/2022/08/shutterstock_2096116342.jpg",
+      "text": "Awesome text for post 1",
+      "date": "4/4/2023",
+      "booked": true
+    },
+    {
+      "id": 2,
+      "img": "https://ecopolitic.com.ua/wp-content/uploads/2022/08/shutterstock_2096116342.jpg",
+      "text": "Awesome text for post 2",
+      "date": "4/4/2023",
+      "booked": false
+    },
+    {
+      "id": 3,
+      "img": "https://ecopolitic.com.ua/wp-content/uploads/2022/08/shutterstock_2096116342.jpg",
+      "text": "Awesome text for post 3",
+      "date": "4/4/2023",
+      "booked": false
+    },
+    {
+      "id": 4,
+      "img": "https://ecopolitic.com.ua/wp-content/uploads/2022/08/shutterstock_2096116342.jpg",
+      "text": "Awesome text for post 4",
+      "date": "4/4/2023",
+      "booked": false
+    },
+    {
+      "id": "2bae153a-3dcb-4ccb-b31a-e0830a09c257",
+      "img": "https://ecopolitic.com.ua/wp-content/uploads/2022/08/shutterstock_2096116342.jpg",
+      "text": "",
+      "date": "2023-04-05T09:40:53.691Z",
+      "booked": false
+    },
+    {
+      "id": "f9792db6-a48a-4364-9261-831b12e49cb0",
+      "img": "https://ecopolitic.com.ua/wp-content/uploads/2022/08/shutterstock_2096116342.jpg",
+      "text": "",
+      "date": "2023-04-05T10:10:05.589Z",
+      "booked": false
+    },
+    {
+      "id": "4a50874c-4ffe-44fc-925a-b90fe10ddf7b",
+      "img": "https://ecopolitic.com.ua/wp-content/uploads/2022/08/shutterstock_2096116342.jpg",
+      "text": "",
+      "date": "2023-04-05T10:10:25.957Z",
+      "booked": false
+    }
+  ]
+}
